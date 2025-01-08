@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>6919 Blog</title><link>https://XiaOHueIJI.github.io/9619</link><description>Blog description</description><copyright>6919 Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188974332?v=4</url><title>avatar</title><link>https://XiaOHueIJI.github.io/9619</link></image><lastBuildDate>Wed, 08 Jan 2025 11:30:08 +0000</lastBuildDate><managingEditor>6919 Blog</managingEditor><ttl>60</ttl><webMaster>6919 Blog</webMaster><item><title>YES</title><link>https://XiaOHueIJI.github.io/9619/post/YES.html</link><description># 好使&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>6919 Blog</title><link>https://XiaOHueIJI.github.io/9619</link><description>Blog description</description><copyright>6919 Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188974332?v=4</url><title>avatar</title><link>https://XiaOHueIJI.github.io/9619</link></image><lastBuildDate>Wed, 08 Jan 2025 13:07:57 +0000</lastBuildDate><managingEditor>6919 Blog</managingEditor><ttl>60</ttl><webMaster>6919 Blog</webMaster><item><title>new</title><link>https://XiaOHueIJI.github.io/9619/post/new.html</link><description># We use our domail name&#13;
+### This is some &#13;
+&#13;
+`OLED_ShowCHinese(18,0,1);`&#13;
+```int main(void)&#13;
+ {	&#13;
+	uint16_t Counter;&#13;
+	delay_init();	    	//延时函数初始化,通过Systick中断实现1ms延时功能  &#13;
+	OLED_Init();//OLED初始化  &#13;
+	OLED_Clear();//清屏&#13;
+ &#13;
+&#13;
+  while (1)&#13;
+  {	&#13;
+		OLED_ShowNum(52,6,Counter,3,16);&#13;
+		Counter++;&#13;
+		delay_ms(1000);&#13;
+  }&#13;
+ }```&#13;
+&#13;
+![捕获 - 副本](https://github.com/user-attachments/assets/070d2133-df09-42ae-a5d4-d3385e58300f)&#13;
+。</description><guid isPermaLink="true">https://XiaOHueIJI.github.io/9619/post/new.html</guid><pubDate>Wed, 08 Jan 2025 13:07:30 +0000</pubDate></item><item><title>YES</title><link>https://XiaOHueIJI.github.io/9619/post/YES.html</link><description># 好使&#13;
 ## We success&#13;
 `星のかがやきよ`&#13;
 そう出逢った瞬間に 同じ臭を感じた，&#13;
