@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兔汁</title><link>https://XiaOHueIJI.github.io/9619</link><description>Blog</description><copyright>兔汁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188974332?v=4</url><title>avatar</title><link>https://XiaOHueIJI.github.io/9619</link></image><lastBuildDate>Wed, 08 Jan 2025 13:09:46 +0000</lastBuildDate><managingEditor>兔汁</managingEditor><ttl>60</ttl><webMaster>兔汁</webMaster><item><title>new</title><link>https://XiaOHueIJI.github.io/9619/post/new.html</link><description># We use our domail name&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兔汁</title><link>https://XiaOHueIJI.github.io/9619</link><description>Blog</description><copyright>兔汁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188974332?v=4</url><title>avatar</title><link>https://XiaOHueIJI.github.io/9619</link></image><lastBuildDate>Sun, 02 Feb 2025 14:02:03 +0000</lastBuildDate><managingEditor>兔汁</managingEditor><ttl>60</ttl><webMaster>兔汁</webMaster><item><title>LED流水灯(STC89C516RD+)</title><link>https://XiaOHueIJI.github.io/9619/post/LED-liu-shui-deng-%28STC89C516RD%2B%29.html</link><description># LED流水灯
+## 平台STM89C516RD+
+## 是`*.hex`文件
+```
+:06003800F5A07F507EC31D
+:0B003E00EF1FAC0670011E4C70F62294
+:10000300E4FD75A0FE12003AE4FDAFA07801EF080D
+:10001300800123D8FD1200380DBD07EEE4FDEDC3CA
+:10002300940750E4AFA07801EF08800103D8FD12D4
+:0500330000380D80E91A
+:03000000020049B2
+:0C004900787FE4F6D8FD75810702000303
+:00000001FF
+```。</description><guid isPermaLink="true">https://XiaOHueIJI.github.io/9619/post/LED-liu-shui-deng-%28STC89C516RD%2B%29.html</guid><pubDate>Sun, 02 Feb 2025 14:01:40 +0000</pubDate></item><item><title>new</title><link>https://XiaOHueIJI.github.io/9619/post/new.html</link><description># We use our domail name&#13;
 ### This is some &#13;
 &#13;
 `OLED_ShowCHinese(18,0,1);`&#13;
