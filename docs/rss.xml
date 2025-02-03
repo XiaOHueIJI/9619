@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兔汁</title><link>https://XiaOHueIJI.github.io/9619</link><description>Blog</description><copyright>兔汁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188974332?v=4</url><title>avatar</title><link>https://XiaOHueIJI.github.io/9619</link></image><lastBuildDate>Sun, 02 Feb 2025 14:02:03 +0000</lastBuildDate><managingEditor>兔汁</managingEditor><ttl>60</ttl><webMaster>兔汁</webMaster><item><title>LED流水灯(STC89C516RD+)</title><link>https://XiaOHueIJI.github.io/9619/post/LED-liu-shui-deng-%28STC89C516RD%2B%29.html</link><description># LED流水灯
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>兔汁</title><link>https://XiaOHueIJI.github.io/9619</link><description>Blog</description><copyright>兔汁</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/188974332?v=4</url><title>avatar</title><link>https://XiaOHueIJI.github.io/9619</link></image><lastBuildDate>Mon, 03 Feb 2025 11:48:42 +0000</lastBuildDate><managingEditor>兔汁</managingEditor><ttl>60</ttl><webMaster>兔汁</webMaster><item><title>Custom domain bug</title><link>https://XiaOHueIJI.github.io/9619/post/Custom%20domain%20bug.html</link><description># Our custom domain have bug
+## Why?
+Some computer and phone will show the webside is not safe
+## So we not use our domain
+We use http://xiaohueiji.github.io/9619
+。</description><guid isPermaLink="true">https://XiaOHueIJI.github.io/9619/post/Custom%20domain%20bug.html</guid><pubDate>Mon, 03 Feb 2025 11:48:16 +0000</pubDate></item><item><title>LED流水灯(STC89C516RD+)</title><link>https://XiaOHueIJI.github.io/9619/post/LED-liu-shui-deng-%28STC89C516RD%2B%29.html</link><description># LED流水灯
 ## 平台STM89C516RD+
 ## 是`*.hex`文件
 ```
